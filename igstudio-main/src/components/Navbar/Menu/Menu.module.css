@@ -1,0 +1,16 @@
+.wrapper {
+  width: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 41px;
+}
+
+ul {
+  list-style: none;
+  font-weight: 600;
+}
+
+.titles {
+  font-size: 16px;
+}
